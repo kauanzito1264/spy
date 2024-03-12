@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html>
-<body>
+<head>
 
-    
+</head>
+<body>
+    <h1>Titulo do trabalho 1</h1>
+    <h2>Titulo do trabalho 2</h2>
+    <h3>Titulo do trabalho 3</h3>
+    <h4>Titulo do trabalho 4</h4>
+    <h5>Titulo do trabalho 5</h5>
+    <h6>Titulo do trabalho 6</h6>
+    <p>paragrafo do trabalho</p>
+    <p>outro paragrafo do trabalho</p>
+    <a href="https://wiki.tf2classic.com/wiki/Main_Page">Isso aqui é um link</a>
 </body>
 </html>
